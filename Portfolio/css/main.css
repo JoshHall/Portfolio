@@ -1,0 +1,36 @@
+header {
+  margin-bottom: 7vh;
+}
+article {
+  /* text-align: center; */
+  width: 50%;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  margin-bottom: 1%;
+  padding: 1.5%;
+  box-shadow: 3px 3px 2px 1px rgba(0, 0, 255, .2);
+}
+aside {
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  margin-bottom: 1%;
+  box-shadow: 3px 3px 2px 1px rgba(0, 0, 255, .2);
+}
+/* article:hover, aside:hover {
+  box-shadow:
+} */
+.card-img-top {
+  width: 100%;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.card-body {
+  padding: 1.5%;
+}
+.contact-card {
+  margin: 0 auto;
+  float: none;
+}
+.margin-top {
+  margin: 5% auto;
+}
